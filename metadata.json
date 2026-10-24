@@ -1,0 +1,6 @@
+{
+  "name": "PromoCraft AI - Studio Video Promosi Aplikasi",
+  "description": "Studio pembuat video promosi aplikasi interaktif dengan mockup 3D device, generator skrip AI, kinetic motion typography, audio synthesis, dan export video resolusi tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
